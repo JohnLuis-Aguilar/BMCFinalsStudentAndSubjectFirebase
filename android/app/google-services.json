@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936468739261",
+    "project_id": "biodata-form-ba9f7",
+    "storage_bucket": "biodata-form-ba9f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936468739261:android:0c022d1333c8de0aa673d4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4mgBxSjI8K5urZ0YqxNxxUlvBWhPTt9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
